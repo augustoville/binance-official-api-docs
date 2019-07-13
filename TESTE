@@ -1,0 +1,1 @@
+=SEERRO(ArrayFormula(PROCV(B20,Binance24h!$A$2:$F,{2},FALSO)),"")
